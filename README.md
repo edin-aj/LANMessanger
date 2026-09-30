@@ -45,6 +45,7 @@ When you join, your app asks the network *"who is online?"* and the other client
 + **Visual Studio 2022** *(or any IDE that can build .NET Framework WinForms projects)*
 
 To build it, open `LANMessanger.sln` in Visual Studio and press `F5`. To try the chat, run it on two or more computers in the same network.
+Or you can download the ready-to-run version from the [Releases](https://github.com/edin-aj/LANMessanger/releases/tag/lanmessanger) page.*
 
 *Important: allow the app in Windows Firewall for **UDP port 27000**, or the other computers will not receive your messages.*
 
