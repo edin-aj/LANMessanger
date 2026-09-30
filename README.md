@@ -1,4 +1,4 @@
-# <h2 align=center>*LAN Messanger*</h2>
+# <h2 align=center>*LAN Messenger*</h2>
 
 
 <p align="center">
@@ -8,6 +8,7 @@
 I built this a while back as a chat app for local networks, using C# and Windows Forms. There is no server: every computer talks directly to the others over UDP. It's a simple project, but it covers a good part of network programming: broadcast messages, finding other users, a small custom protocol, and a chat window that updates live.
 
 *This project is old and no longer maintained. It was a personal learning project and I won't be fixing bugs or adding features, but feel free to fork or build on it.*
+*And Yes, "Messanger" is spelled wrong. I noticed it too late, so I kept the name as it is with the rest of the project, shame but it is as it is :dizzy_face:*
 
 ## <h2 align=center>*How it works*</h2>
 
