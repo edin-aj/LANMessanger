@@ -9,7 +9,7 @@ I built this a while back as a chat app for local networks, using C# and Windows
 
 *This project is old and no longer maintained. It was a personal learning project and I won't be fixing bugs or adding features, but feel free to fork or build on it.*
 
-*And yes, "Messanger" is spelled wrong. I noticed it too late, so I kept the name as it is with the rest of the projectshame, but it is what it is :sweat_smile:*
+*And yes, "Messanger" is spelled wrong. I noticed it too late, so I kept the name as it is with the rest of the project, its a shame, but it is what it is :sweat_smile:*
 
 ## <h2 align=center>*How it works*</h2>
 
