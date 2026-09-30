@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/edin-aj/LANMessanger/blob/main/LANMessanger/Resources/lan_messanger.png?raw=true" width="60%">
+   <img src="https://github.com/edin-aj/LANMessanger/blob/main/LANMessanger/Resources/lan_messanger.png?raw=true" width="20%">
 </p>
 
 I built this a while back as a chat app for local networks, using C# and Windows Forms. There is no server: every computer talks directly to the others over UDP. It's a simple project, but it covers a good part of network programming: broadcast messages, finding other users, a small custom protocol, and a chat window that updates live.
